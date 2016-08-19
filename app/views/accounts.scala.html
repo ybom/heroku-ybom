@@ -1,0 +1,11 @@
+@(accounts: List[Account])
+@main("Our List of Accounts") {
+    <h1>ACCOUNTS</h1>
+    <ul>
+        @accounts.map { account =>
+        <li>
+            @account.name
+        </li>
+        }
+    </ul>
+}
