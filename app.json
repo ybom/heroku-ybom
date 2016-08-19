@@ -1,0 +1,16 @@
+{
+  "name": "heroku-ybom",
+  "description": "to add reviews",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
